@@ -1,6 +1,6 @@
 # Superstore Financial Performance Dashboard (Power BI)
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes the financial and operational performance of a retail business using **Power BI**.
 The dashboard transforms raw transactional data into **clear, interactive, and actionable insights**
 to support data-driven decision-making by management and business stakeholders.
@@ -10,7 +10,7 @@ across regions, customer segments, and product categories.
 
 ---
 
-## 🛠 Tools & Skills Used
+##  Tools & Skills Used
 - Power BI Desktop
 - DAX (CALCULATE, RANKX, TOPN, Measures)
 - Data Modeling
@@ -20,7 +20,7 @@ across regions, customer segments, and product categories.
 
 ---
 
-## 🧠 Business Questions Answered
+##  Business Questions Answered
 
 ### 🔹 Revenue Performance
 - Which regions contribute the most and least to total revenue?
