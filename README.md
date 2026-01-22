@@ -79,7 +79,7 @@ Provides a high-level overview of key performance indicators including:
 It also highlights monthly trends and revenue decomposition across regions,
 categories, and customer segments.
 
-<img width="1203" height="808" alt="Summary Report" src="https://github.com/user-attachments/assets/9224ae01-4d8b-4ec8-80c9-0350772de883" />
+<img width="1280" height="640" alt="Summary Report" src="https://github.com/user-attachments/assets/9224ae01-4d8b-4ec8-80c9-0350772de883" />
 
 ---
 
@@ -92,7 +92,7 @@ Analyzes revenue distribution across:
 
 This page helps identify top-performing markets and products.
 
-<img width="1209" height="806" alt="Revenue Analysis Report" src="https://github.com/user-attachments/assets/e2125dfd-58e1-4e66-9849-77ffb47c03d2" />
+<img width="1280" height="640" alt="Revenue Analysis Report" src="https://github.com/user-attachments/assets/e2125dfd-58e1-4e66-9849-77ffb47c03d2" />
  
 ---
 
@@ -105,7 +105,7 @@ Focuses on profitability and margin performance by:
 
 Includes profit margin analysis and identification of top and bottom performers.
 
-<img width="1209" height="807" alt="Profit Analysis Report" src="https://github.com/user-attachments/assets/74f27dad-7378-4de9-8928-76902083f9c6" />
+<img width="1280" height="640" alt="Profit Analysis Report" src="https://github.com/user-attachments/assets/74f27dad-7378-4de9-8928-76902083f9c6" />
 
 
 ---
@@ -119,7 +119,7 @@ Explores customer ordering behavior and fulfillment patterns using:
 
 This page helps understand demand patterns and operational flow.
 
-<img width="1211" height="804" alt="Orders Analysis Report" src="https://github.com/user-attachments/assets/d66cf15a-e1fd-4bd3-9b71-040885ce4580" />
+<img width="1280" height="640" alt="Orders Analysis Report" src="https://github.com/user-attachments/assets/d66cf15a-e1fd-4bd3-9b71-040885ce4580" />
 
 ---
 
@@ -133,7 +133,7 @@ Evaluates cost structure and efficiency through:
 
 Supports cost control and efficiency improvement decisions.
 
-<img width="1212" height="806" alt="Cost Analysis Report" src="https://github.com/user-attachments/assets/a32eaf29-df57-402b-bcf3-aecb87bb477c" />
+<img width="1280" height="640" alt="Cost Analysis Report" src="https://github.com/user-attachments/assets/a32eaf29-df57-402b-bcf3-aecb87bb477c" />
 
 
 
